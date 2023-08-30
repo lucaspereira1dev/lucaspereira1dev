@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Atroirr
-- 👀 I’m interested in learn more about Java, JavaScript and Python
-- 🌱 I’m currently learning Node.js, React.js and Elixir.
+- 👋 Hi, I’m Lucas Pereira.
+- 👀 I’m interested in learn more about Cloud and DevOps.
+- 🌱 I’m currently learning Terraform, Docker and Java for AWS SDK.
+- 👨‍💻 Actualy AWS Cloud Practicioner.
