@@ -7,8 +7,8 @@ AWS Certified Cloud Practitioner ☁
 [![Linkedin](https://img.shields.io/badge/Linkedin-16161d?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Atroirr)
 [![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=0D0D0D)](https://www.instagram.com/lucas.__.pereira/)
 ## Habilidades
-[![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=0D0D0D)]
-[![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=fff)]
+![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=0D0D0D)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=fff)
 ![Java](https://img.shields.io/badge/java-fff.svg?style=for-the-badge&logo=openjdk&logoColor=0D0D0D)
 ![MySQL](https://img.shields.io/badge/mysql-0D0D0D.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-fff.svg?style=for-the-badge&logo=amazon-aws&logoColor=0D0D0D)
