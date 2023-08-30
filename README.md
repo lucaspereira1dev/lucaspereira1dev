@@ -1,6 +1,7 @@
 # Lucas Pereira
-    Entustiasta de Cloud e DevOps, formando de Análise e desenvolvimento de sistemas no Instituto Federal de Pernambuco.
-
+    Entustiasta de Cloud e DevOps, formando de Análise e desenvolvimento 
+    de sistemas no Instituto Federal de Pernambuco.
+    
     AWS Certified Cloud Practitioner ☁
 
 ## Conecte-se comigo!
