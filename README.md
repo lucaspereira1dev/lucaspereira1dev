@@ -5,7 +5,7 @@ de sistemas no Instituto Federal de Pernambuco.
 AWS Certified Cloud Practitioner ☁
 ## Conecte-se comigo!
 [![Linkedin](https://img.shields.io/badge/Linkedin-0D0D0D?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Atroirr)
-[![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=0D0D0D)](https://www.instagram.com/lucas.__.pereira/)
+
 ## Habilidades
 ![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=0D0D0D)
 ![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=fff)
