@@ -7,6 +7,8 @@ AWS Certified Cloud Practitioner ☁
 [![Linkedin](https://img.shields.io/badge/Linkedin-0D0D0D?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/lucaspereira1dev)
 
 ## Habilidades
+<img src="https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=0D0D0D" alt="GitHub" />
+
 ![GitHub](https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=0D0D0D)
 ![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=fff)
 ![Java](https://img.shields.io/badge/java-fff.svg?style=for-the-badge&logo=openjdk&logoColor=0D0D0D)
