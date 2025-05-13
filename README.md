@@ -19,10 +19,5 @@ AWS Certified Cloud Practitioner ☁
 ![CSS3](https://img.shields.io/badge/css3-fff.svg?style=for-the-badge&logo=css3&logoColor=0D0D0D)
 ![Linux](https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=fff)
 
-
-
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaspereira1dev&theme=transparent&bg_color=0D0D0D&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff&hide_title=true&hide=stars)
-
 ## Minhas Contribuições
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=lucaspereira1dev&repo=dio-lab-open-source&bg_color=0D0D0D&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=fff)
