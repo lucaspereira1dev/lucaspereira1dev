@@ -33,7 +33,7 @@ CTO de Infraestrutura  ·  Full Stack Dev  ·  Cloud & Edge Computing
 Cloud/Infra&nbsp;&nbsp;`█████████░`&nbsp;90%<br/>
 Backend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`████████░░`&nbsp;80%<br/>
 Frontend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`███████░░░`&nbsp;70%<br/>
-DevOps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`████████░░`&nbsp;80%
+DevOps&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`████████░░`&nbsp;80%
 
 </td>
 <td width="1px" bgcolor="#30363d"></td>
