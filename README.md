@@ -16,9 +16,6 @@
 CTO at Mangue House  ·  Full Stack Dev  ·  Cloud & Edge Computing
 ```
 
-> *"Do bundle no cliente ao provisionamento do backend —*
-> *causa raiz antes de suposição, evidência antes de achismo."*
-
 <br/>
 
 ---
