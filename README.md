@@ -13,7 +13,7 @@
 </picture>
 
 ```
-CTO de Infraestrutura  ·  Full Stack Dev  ·  Cloud & Edge Computing
+CTO at Mangue House  ·  Full Stack Dev  ·  Cloud & Edge Computing
 ```
 
 > *"Do bundle no cliente ao provisionamento do backend —*
